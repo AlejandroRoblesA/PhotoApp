@@ -1,0 +1,17 @@
+# Xcode
+
+## Build generated
+build/
+DerivedData
+
+## OS X System files
+.DS_Store
+
+# Cocoapods
+Pods/
+demos/**/Pods/
+Podfile.lock
+
+## Cache
+PhotoApp.xcodeproj/project.xcworkspace/xcuserdata/
+PhotoApp.xcodeproj/xcuserdata/alejandro.xcuserdatad/xcdebugger/
